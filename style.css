@@ -55,7 +55,32 @@ footer {
   align-items: center;
   
   
+  nav{
+    margin-right: 21px;
+    text-align: right;
+  }
   
+  
+  nav.cross{
+    margin-right: 59px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #000001;
+    borger: 2px dottes #000001;
+    border-radius: 6px;
+    box-shadou: 0px 21px 10px #A67462;
+    padding: 7px;
+  }
+    
+    
+    
+    
+    
+  
+  
+  
+  
+    
   
   
   
