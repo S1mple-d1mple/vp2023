@@ -49,8 +49,8 @@ footer {
 }
 
 .main-link:hover{
-  background-image: linear-gradient(180deg, #A67230 2%, #FFFFFF 10%, #000030 87% , #A67201 100%);
-  transition: 2.6s linear;
+  background-image: linear-gradient(180deg, #A67230 2%, #000005 10%, #000030 87% , #A67201 100%);
+  transition: all 2.6s  linear;
   color: #091F82;}
 
 
